@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/react_native/node_modules/lottie-react-native/lib/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.1/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
